@@ -9,7 +9,7 @@ This is a simple JavaScript project that allows users to change the background c
 1.  **Clone the repository:**
 
     ```bash
-    git clone [your-repo-url]
+    git clone https://github.com/Saya2003/Color-Flipper.git
     ```
 
 2.  **Open `index.html`:** Simply open the `index.html` file in your web browser. There's no need for a local server, as all the logic runs on the client side.
